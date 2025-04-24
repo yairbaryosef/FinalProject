@@ -1,0 +1,506 @@
+[
+    {
+        "sentence": "**Order backlog at $22.1 billion**: Provides stability and resilience for the Company for years to come, as our investments in R&D create strong foundations for long-term growth and development.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Revenues of $1.7 billion**: Reflects the quality and excellence driven by our dedicated and outstanding employees in Israel and in our subsidiaries around the world.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Non-GAAP net income of $99 million**: Indicates the Company's ability to maintain profitability despite the challenges of the third quarter.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Increased demand for solutions and products**: Reflects the consistent growth of the Company's solutions and products, which are experiencing high demand.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Record high order backlog**: Provides stability and resilience for the Company, as our investments in R&D create strong foundations for long-term growth and development.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Global presence**: The Company's subsidiaries around the world contribute to its global presence, which is essential for long-term growth and development.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Strong growth in UAS sales in Israel**: Indicates the Company's ability to meet customer needs in Israel, which is a key market for the Company.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Increased demand for radio systems and command and control systems**: Reflects the high demand for the Company's products and services in the military and defense sectors.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Electronic Warfare and Electro-Optic systems sales**: Indicates the Company's ability to meet customer needs in the military and defense sectors, which is a key market for the Company.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "Non-GAAP gross profit in the third quarter of 2024 was $419.4 million (24.4% of revenues), as compared to $374.2 million (24.9% of revenues) in the third quarter of 2023.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "GAAP gross profit in the third quarter of 2024 was $412.8 million (24.0% of revenues), as compared to $367.2 million (24.5% of revenues) in the third quarter of 2023.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "Non-GAAP operating income was $140.7 million (8.2% of revenues) in the third quarter of 2024, as compared to $120.0 million (8.0% of revenues) in the third quarter of 2023.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "GAAP operating income in the third quarter of 2024 was $125.8 million (7.3% of revenues), as compared to $106.1 million (7.1% of revenues) in the third quarter of 2023.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "Non-GAAP net income attributable to the Company's shareholders in the third quarter of 2024 was $98.8 million (5.8% of revenues), as compared to $76.5 million (5.1% of revenues) in the third quarter of 2023.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "GAAP net income attributable to the Company's shareholders in the third quarter of 2024 was $79.1 million (4.6% of revenues), as compared to $60.7 million (4.0% of revenues) in the third quarter of 2023.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The Company’s order backlog as of September 30, 2024 totaled $22.1 billion. Approximately 66% of the current backlog is attributable to orders from outside Israel. Approximately 37% of the backlog is scheduled to be performed during the remainder of 2024 and 2025.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The cash flow in the nine months ended September 30, 2024 was affected mainly by the increase in contract liabilities, which was offset by the increase in inventories and trade receivables.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The Company’s order backlog is expected to be maintained or increased in the fourth quarter of 2024, driven by the ongoing demand for its products and services.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company is maintaining its investment in research and development to",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The demand for Elbit Systems' products and solutions has increased significantly since the start of hostilities.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company has experienced a material increase in demand for its products and solutions from the Israel Ministry of Defense (IMOD).",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's products and solutions have been in high demand, despite disruptions in supply chains and operations.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "Some operations have experienced disruptions due to supply chain and operational constraints.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The Company has taken steps to mitigate existing and potential supply chain disruptions and to maintain business continuity.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's employees have been relocated to alternative facilities and recruited to support increased production.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The war has prompted a material increase in demand for Elbit Systems' products and solutions.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's increased support to the IMOD may continue and generate additional orders.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The extent of the effects of the war on the Company's performance will depend on future developments of the war that are difficult to predict.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Adjusted gross profit, Adjusted operating income, and Adjusted net income are useful to evaluate the ongoing performance of the Company.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Management uses these measures to facilitate trend analysis using comparable data.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Adjusted diluted earnings per share is useful to evaluate adjusted net income attributable to Company's shareholders on a per-share basis.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company believes that non-GAAP measures have limitations in that they do not reflect all of the amounts associated with its results of operations, as determined in accordance with GAAP.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Non-GAAP measures should only be used to evaluate its results of operations in conjunction with the corresponding GAAP measures.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Investors should consider non-GAAP financial measures in addition to, and not as replacements for or superior to, measures of financial performance prepared in accordance with GAAP.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company uses Adjusted gross profit, Adjusted operating income, and Adjusted net income to measure the ongoing gross profit, operating profit, and net income performance of the Company.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "These measures adjust for more significant non-recurring items, amortization expenses of intangible assets relating to prior acquisitions, and non-cash expense which can fluctuate year to year.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Management uses Adjusted diluted earnings per share to evaluate further adjusted net income attributable to Company's shareholders while considering changes in the number of diluted shares over comparable periods.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**Reconciliation of GAAP to Non-GAAP Supplemental Financial Data**",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**GAAP Gross Profit**",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**GAAP Operating Income**",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**GAAP Net Income Attributable to Elbit Systems' Shareholders**",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**GAAP Diluted Net EPS**",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**GAAP Gross Profit**",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**GAAP Operating Income**",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company announced that it was awarded an approximately $200 million contract by the Israeli Ministry of Defense to supply high-power laser systems for the \"Iron Beam\" air defense system.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "On October 28, 2024, the Company announced that it was awarded a follow-on contract of approximately $127 million to supply Iron Fist Active Protection Systems to General Dynamics Ordnance and Tactical Systems for upgrades to the U.S. Army's Bradley M2A4E1 Infantry Fighting Vehicles.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "On November 5, 2024, the Company announced that it was awarded a follow-on contract of approximately $335 million, to supply defense systems to a European country.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company announced that it was awarded an approximately $200 million contract by the Israeli Ministry of Defense to supply high-power laser systems for the \"Iron Beam\" air defense system.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company announced that it was awarded a follow-on contract of approximately $127 million to supply Iron Fist Active Protection Systems to General Dynamics Ordnance and Tactical Systems for upgrades to the U.S. Army's Bradley M2A4E1 Infantry Fighting Vehicles.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company announced that it was awarded contracts worth a total amount of approximately $335 million, to supply defense systems to a European country.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company announced that it was awarded a follow-on contract of approximately $335 million, to supply defense systems to a European country.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company announced that it was awarded an approximately $200 million contract by the Israeli Ministry of Defense to supply high-power laser systems for the \"Iron Beam\" air defense system.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company announced that it was awarded a follow-on contract of approximately $127 million to supply Iron Fist Active Protection Systems to General Dynamics Ordnance and Tactical Systems for upgrades to the U.S. Army's Bradley M2A4E1 Infantry Fighting Vehicles.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "insight 1: The Company's recent contract awards demonstrate its growing presence in the high-power laser systems market.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "insight 2: The Company's contract awards with the Israeli Ministry of Defense and General Dynamics Ordnance and Tactical Systems highlight its ability to secure large-scale defense contracts.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "insight 3: The Company's contract awards with a European country underscore its expanding presence in the defense systems market.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "insight 4",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Elbit Systems reported approximately $1.7 billion in revenues as of September 30, 2024.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company reported an order backlog of approximately $22.1 billion.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Elbit Systems employs over 20,000 people in dozens of countries across five continents.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Elbit Systems is a leading global defense technology company delivering advanced solutions for a secure and safer world.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company employs over 20,000 people in dozens of countries across five continents.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Elbit Systems is a subsidiary of the Elbit Systems Ltd. company.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Elbit Systems employs over 20,000 people in dozens of countries across five continents.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company reported an order backlog of approximately $22.1 billion.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company is a subsidiary of the Elbit Systems Ltd. company.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company believes the expectations reflected in the forward-looking statements contained herein are reasonable, ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "but cannot guarantee future results, level of activity, performance or achievements. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Moreover, neither the Company nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company does not undertake to update its forward-looking statements.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company believes the expectations reflected in the forward-looking statements contained herein are reasonable, ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "but cannot guarantee future results, level of activity, performance or achievements. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Moreover, neither the Company nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company does not undertake to update its forward-looking statements.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company believes the expectations reflected in the forward-looking statements contained herein are reasonable, ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "but cannot guarantee future results, level of activity, performance or achievements. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Moreover, neither the Company nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company does not undertake to update its forward-looking statements.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company's earnings release contains forward-looking statements, which are subject to risks and uncertainties. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The forward-looking statements are based on the Company's current expectations and assumptions, but may not reflect actual results. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company is not responsible for updating its forward-looking statements, which are subject to change over time. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The forward-looking statements should be read in conjunction with the Company's financial statements and other publicly available information. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company does not guarantee that its forward-looking statements will be accurate or complete. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company assumes no obligation to update its forward-looking statements, except as required by law. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The forward-looking statements are for informational purposes only and should not be relied upon as investment advice. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company is not responsible for any losses or damages that may result from the use of its forward-looking statements. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The forward-looking statements may be affected by various factors, including market conditions, regulatory changes, and other external factors. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company does not undertake to update its forward-looking statements, except as required by law. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The forward-looking",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company's current assets are significantly higher than its current liabilities, indicating a strong cash position.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The cash and cash equivalents account for approximately 62% of the total current assets, suggesting a substantial amount of liquidity.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The operating lease right of use assets account for 27% of total assets, indicating the company has invested heavily in property, plant, and equipment.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company's trade and unbilled receivables and contract assets are substantial, indicating a robust cash flow generation capability.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The inventories are relatively high, suggesting the company may face inventory management challenges.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The deferred income taxes, net, account for approximately 10% of total assets, indicating potential tax liabilities.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company's operating lease liabilities are substantial, indicating a high level of debt obligations.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The contract liabilities account for approximately 13% of total liabilities, suggesting potential contractual risks.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The employee benefit liabilities account for approximately 10% of total liabilities, indicating potential risks related to pension and other employee benefits obligations.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "Provide the extracted insights in the format specified.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Ensure each insight is clear, specific, and well-structured.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Use the format above to present the extracted insights.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Gross profit has increased by 412,784 USD from the same period last year.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "Operating expenses have decreased by 286,975 USD from the same period last year.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "Operating income has increased by 125,809 USD from the same period last year.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company has maintained a consistent gross profit margin of around 11.1% over the last three years.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The operating expense ratio has been decreasing over the last two years, indicating a potential improvement in operational efficiency.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The company has maintained a significant equity stake in affiliated companies, indicating a strong financial foundation.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The net income attributable to Elbit Systems Ltd.'s shareholders has been increasing over the last three years, suggesting a positive financial performance.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's net income increased by 215,856 US dollars in the nine months ended September 30, 2024, compared to 185,454 US dollars in the same period in 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The increase in net income can be attributed to the depreciation and amortization expenses of 117,145 US dollars, which decreased by 123,477 US dollars and 164,799 US dollars in the same period, respectively.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The stock-based compensation expense increased by 12,141 US dollars in the nine months ended September 30, 2024, compared to 9,732 US dollars in the same period in 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's operating cash flow increased by 113,709 US dollars in the nine months ended September 30, 2024, compared to 200,031 US dollars in the same period in 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The net cash used in investing activities increased by 210,600 US dollars in the nine months ended September 30, 2024, compared to 195,999 US dollars in the same period in 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's financing activities resulted in a net cash outflow of 83,212 US dollars in the nine months ended September 30, 2024, compared to 305,210 US dollars in the same period in 2023.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The company's stock-based compensation expense is increasing, which may indicate an increase in employee base or compensation structure.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The company's financing activities resulted in a net cash outflow, which may indicate a need to increase cash inflows or reduce cash outflows.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The company's financing activities also resulted in a change in short-term bank credit and loans, which may indicate a need to manage cash flows or reduce cash outflows.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company's revenue grew by 100.0% year-over-year, with a significant increase in revenue from the Asia-Pacific segment.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The revenue from the Aerospace segment increased by 16.8% year-over-year, driven by the growth of external customers and intersegment revenue.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The revenue from the C4I and Cyber segment grew by 23.7% year-over-year, driven by the growth of external customers and intersegment revenue.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's revenue is heavily dependent on the growth of the Asia-Pacific segment, which accounted for 21.2% of total revenue.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company's revenue is also heavily dependent on the growth of the C4I and Cyber segment, which accounted for 21.2% of total revenue.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company's revenue is expected to continue growing in the future, driven by the expansion of the Asia-Pacific segment.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's revenue growth is expected to be driven by the expansion of the Asia-Pacific segment, which is expected to increase by 15.3% year-over-year.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's revenue growth is also expected to be driven by the expansion of the C4I and Cyber segment, which is expected to increase by 20.9% year-over-year.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's revenue growth is vulnerable to market conditions, particularly if the Asia-Pacific segment experiences a decline in growth.",
+        "predicted_sentiment": "negative"
+    }
+]

@@ -1,0 +1,5 @@
+Predicted 90-Day % Change: 13.39%
+Simulated forecast generated using exponential growth.
+MSE (PctChange): 0.043434
+R2: -0.2332
+Directional Accuracy: 61.91%

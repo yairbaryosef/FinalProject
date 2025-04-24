@@ -1,0 +1,406 @@
+[
+    {
+        "sentence": "Elbit Systems increased its order backlog at $22.1 billion, providing stability and resilience for the Company for years to come.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's investments in R&D created strong foundations for long-term growth and development.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's highly regarded solutions and products are experiencing high demand.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "Revenues in the third quarter of 2024 were $1,717.5 million, up 7% from the third quarter of 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's non-GAAP net income was $99 million, up 13% from the third quarter of 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's non-GAAP net EPS was $2.21, up 13% from the third quarter of 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's aerospace revenues increased by 7% in the third quarter of 2024, driven by increased UAS sales in Israel.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's C4I and Cyber revenues increased by 13% in the third quarter of 2024, driven by radio systems and command and control systems sales.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company's ISTAR and EW revenues increased by 13% in the third quarter of 2024, driven by Electronic Warfare and Electro-Optic systems sales.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company has decided to increase its non-GAAP gross profit by 24.4% in the third quarter of 2024 compared to the same period in 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company has decided to reduce its research and development expenses, net, by 7.0% in the third quarter of 2024 compared to the same period in 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company has decided to increase its marketing and selling expenses, net, by 5.3% in the third quarter of 2024 compared to the same period in 2023.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company has seen an increase in its non-GAAP operating income, from $120.0 million in the third quarter of 2023 to $140.7 million in the third quarter of 2024.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company has seen a significant increase in its GAAP operating income, from $106.1 million in the third quarter of 2023 to $125.8 million in the third quarter of 2024.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company has seen a decrease in its financial expenses, net, from $35.7 million in the third quarter of 2023 to $45.0 million in the third quarter of 2024.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The company has seen a decrease in its taxes on income, from $10.0 million in the third quarter of 2023 to $12.8 million in the third quarter of 2024.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The company's order backlog has increased by $1.8 billion to $22.1 billion as of September 30, 2024, with approximately 66% of the backlog being from outside Israel and approximately 37% being scheduled to be performed during the remainder of 2024 and 2025.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's order backlog has increased, which may indicate a growing demand for its products or services.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company's order backlog is being sourced from outside Israel, which may indicate a diversification of its customer base and a potential shift towards international markets.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company's order backlog is being scheduled to be performed during the remainder of 2024 and 2025, which may indicate a steady stream of orders and a potential increase in revenue.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "Elbit Systems has taken a number of steps to protect the safety and the security of its employees in Israel and abroad, to support its increased production, to mitigate existing and potential supply chain disruptions and to maintain business continuity, including the relocation of production lines from facilities in evacuated areas to alternative facilities; recruitment of additional employees; increased monitoring of global supply chains to identify delays, shortages and bottlenecks; rescheduling of deliveries to certain customers as necessary; and an increase of inventories.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company has increased its support to the Israel Ministry of Defense (IMOD) mainly through deliveries of its systems and the dedicated efforts of its employees.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company has experienced a material increased demand for its products and solutions from the Israel Ministry of Defense (IMOD) compared to the demand levels prior to the war.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The IMOD’s increased demand for the Company’s products and solutions may continue and could generate material additional orders for the Company.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "While the vast majority of the facilities in Israel continue to operate uninterrupted, some operations have experienced disruptions due to supply chain and operational constraints, including among others due to limitations on exports to Israel, increase of transportation costs and delays, material and component shortages, attacks by anti-Israeli organizations, the relocation of certain production lines, evacuation of employees and employee recruitment for reserve duty.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "The war has prompted a material increase in demand for the Company’s products and solutions from the Israel Ministry of Defense (IMOD) compared to the demand levels prior to the war, which is a trend that may continue in the future.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company uses Adjusted gross profit, Adjusted operating income, and Adjusted net income attributable to the Company's shareholders to measure the ongoing gross profit, operating profit and net income performance of the Company.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Management uses Adjusted diluted earnings per share to evaluate further adjusted net income attributable to the Company's shareholders while considering changes in the number of diluted shares over comparable periods.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company excludes amortization expenses of intangible assets related to acquisitions that occurred mainly in prior periods, capital gains related primarily to the sale of investments, restructuring activities, uncompensated costs related to \"Swords of Iron\" war, non-cash stock based compensation expenses, revaluations of investments in affiliated companies, non-operating foreign exchange gains or losses, one-time tax expenses, and the effect of tax on each of these items from its non-GAAP financial data.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Management believes that non-GAAP measures, such as Adjusted gross profit, Adjusted operating income, and Adjusted net income attributable to the Company's shareholders, provide useful information to investors and analysts by facilitating more meaningful comparisons of the company's financial results over time.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company believes that Adjusted diluted earnings per share is useful to existing shareholders, potential shareholders and other users of its financial information because it also enables them to evaluate adjusted net income attributable to the Company's shareholders on a per-share basis.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company uses Adjusted gross profit, Adjusted operating income, and Adjusted net income attributable to the Company's shareholders to measure the ongoing gross profit, operating profit and net income performance of the Company because the measure adjusts for more significant non-recurring items, amortization expenses of intangible assets relating to prior acquisitions, and non-cash expense which can fluctuate year to year.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Management uses Adjusted diluted earnings per share to evaluate further adjusted net income attributable to the Company's shareholders while considering changes in the number of diluted shares over comparable periods.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company believes that Adjusted gross profit, Adjusted operating income, and Adjusted net income attributable to the Company's shareholders are useful to existing shareholders, potential shareholders and other users of its financial information because they provide measures of the Company's ongoing performance that enable these users to perform trend analysis using comparable data.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Elbit Systems has decided to allocate additional funds to \"Swords of Iron\" war, which is expected to result in a significant increase in non-GAAP gross profit.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The company has decided to restructure a subsidiary's activities, which is expected to result in a reduction in non-GAAP operating expenses.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company announced that at its Annual General Meeting of Shareholders held on September 19, 2024, each of the proposals described in the Proxy Statement to the shareholders dated August 15, 2024, was approved by the required majority.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "On October 28, 2024, the Company announced that it was awarded an approximately $200 million contract by the Israeli Ministry of Defense to supply high-power laser systems for the \"Iron Beam\" air defense system.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "On November 5, 2024, the Company announced that it was awarded a follow-on contract of approximately $127 million to supply Iron Fist Active Protection Systems to General Dynamics Ordnance and Tactical Systems for upgrades to the U.S. Army's Bradley M2A4E1 Infantry Fighting Vehicles.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "On November 18, 2024, the Company announced that it was awarded contracts worth a total amount of approximately $335 million, to supply defense systems to a European country.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company declared a dividend of $0.50 per share.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company's cash balance at the end of the year is approximately $50 million.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company's announcement of the \"Iron Beam\" air defense system contract with the Israeli Ministry of Defense suggests that the Company is focusing on the development and supply of advanced defense systems in the region.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company's announcement of the follow-on contract with General Dynamics Ordnance and Tactical Systems for upgrades to the U.S. Army's Bradley M2A4E1 Infantry Fighting Vehicles suggests that the Company is expanding its capabilities in the U.S. market and seeking to increase its presence in the global defense industry.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "Elbit Systems is a leading global defense technology company, delivering advanced solutions for a secure and safer world. ",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "The Company employs over 20,000 people in dozens of countries across five continents. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company has an order backlog of approximately $22.1 billion. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "Elbit Systems reported as of September 30, 2024 approximately $1.7 billion in revenues and an order backlog of approximately $22.1 billion. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company has a significant presence in Israel and the United States, with over 20,000 employees in dozens of countries across five continents. ",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company's revenue and order backlog are expected to continue to grow, driven by its advanced solutions for a secure and safer world. ",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "Elbit Systems Ltd. believes the expectations reflected in the forward-looking statements contained herein are reasonable.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The Company does not undertake to update its forward-looking statements.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to increase its cash and cash equivalents from $119,199 to $197,429.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to reduce its short-term bank deposits from $10,518 to $576,594.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to reduce its trade and unbilled receivables and contract assets, net from $2,716,762 to $2,298,019.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has seen a decrease in its current assets from $5,508,080 to $5,508,080.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has seen a decrease in its investments in affiliated companies and other companies from $145,350 to $145,350.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has seen an increase in its long-term trade and unbilled receivables and contract assets from $364,719 to $364,719.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to reduce its long-term bank deposits from $87,648 to $87,648.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to reduce its deferred income taxes, net from $23,423 to $23,423.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to reduce its severance pay fund from $206,943 to $206,943.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to increase its cash and cash equivalents from $119,199 to $197,429.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to reduce its short-term bank deposits from $10,518 to $576,594.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has decided to reduce its trade and unbilled receivables and contract assets, net from $2,716,762 to $2,298,019.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has seen a decrease in its current assets from $5,508,080 to $5,508,080.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has seen a decrease in its investments in affiliated companies and other companies from $145,350 to $145,350.",
+        "predicted_sentiment": "negative"
+    },
+    {
+        "sentence": "ELBIT SYSTEMS LTD. has seen an increase in its long-term trade and unbilled receivables and contract assets",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "[Elbit Systems Ltd.] made the decision to expand its operations, as evidenced by the increase in revenues from the first nine months of the year.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "[Elbit Systems Ltd.] increased its investments in research and development, which led to a significant increase in operating expenses.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Investment in new manufacturing facilities** for the nine months ended September 30, 2024, is approximately $87 million.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**Acquisition of subsidiaries, net of cash assumed** is $10.380.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**Issuance of shares** is $7.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of commercial paper** increased cash outflows by $313,620.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of commercial paper** increased cash outflows by $313,620.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of shares** increased cash outflows by $7.",
+        "predicted_sentiment": "positive"
+    },
+    {
+        "sentence": "**Issuance of",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company has decided to focus on its aerospace segment, with revenues of $1,395.3 million, representing 28.5% of total revenues.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company has also decided to focus on its C4I and Cyber segment, with revenues of $598.1 million, representing 17.5% of total revenues.",
+        "predicted_sentiment": "neutral"
+    },
+    {
+        "sentence": "The company has decided to allocate more resources to its ISTAR and EW segment, with revenues of $988.8 million, representing 9.8% of total revenues.",
+        "predicted_sentiment": "positive"
+    }
+]

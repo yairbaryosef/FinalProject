@@ -1,0 +1,7 @@
+?? Final Evaluation for AMZN
+R2 Score: -0.8508
+RMSE: 9.8376
+MSE: 96.7781
+Direction Accuracy: 0.3333
+Recall (Up > 0): 0.3333
+Recall (Down < 0): 0.3333
