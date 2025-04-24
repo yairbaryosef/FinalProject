@@ -1,8 +1,5 @@
 import os
 
-import paramiko
-import time
-import re
 
 import paramiko
 import re
