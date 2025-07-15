@@ -11,6 +11,7 @@ from pptx.dml.color import RGBColor
 
 
 from Anlysis.Finnancial_Ratios.scraperyahoo import calc_Ratios_with_growth
+from Presentation.UpdatePre.design.run import Present
 from SSH.connect_to_slurm import ssh_connect_and_authenticate
 
 
@@ -425,7 +426,7 @@ def main(stock,symbol,pdf):
     output_pptx = os.path.join(base_dir, "Presentation", "Files","Company_Presentation.pptx")
     print(output_pptx)
     # Run the script
-    create_presentation(summary_file, sentiment_file, output_pptx,ratios,symbol)
+    Present()
     return output_pptx
 
 

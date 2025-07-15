@@ -1,7 +1,8 @@
 import yfinance
 
 import Anlysis.Finnancial_Ratios.scraperyahoo
-from update import *
+from Presentation.UpdatePre.design.update import *
+
 
 import yfinance as yf
 
@@ -56,7 +57,7 @@ def get_timeseries_data(ticker: str):
 def Present():
     lines = [
         "Company: DemoTech Inc.",
-        "Ticker: DMTC",
+        "Ticker: TICK",
         "Industry: Artificial Intelligence",
         "Market Cap: $120 Billion",
 
@@ -114,4 +115,4 @@ def Present():
             "SWOT analysis indicates strengths outweigh risks"
         ]
     Create(lines,new_ratios, timeseries_data,years, sentiment, section_data_positive,section_data_negative, forecast, recommendation, reasons)
-Present()
+#Present()

@@ -1,4 +1,5 @@
 # מפעיל את הקוד המתוקן על הקובץ שהמשתמש העלה
+import os
 
 from pptx import Presentation
 from pptx.enum.text import PP_ALIGN
@@ -390,7 +391,14 @@ class PresentationBuilder:
 
 def Create(lines,new_ratios, timeseries_data,years, sentiment, section_data_positive, section_data_negative,
            forecast, recommendation, reasons):
-    pptx_path = 'Stock Financial Analysis.pptx'
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Path to the PPTX file
+    pptx_path = os.path.join(
+        base_dir,
+
+        "Stock Financial Analysis.pptx"
+    )
     prs = Presentation(pptx_path)
 
 
