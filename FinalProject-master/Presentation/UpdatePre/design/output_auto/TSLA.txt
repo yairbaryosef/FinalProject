@@ -1,0 +1,6 @@
+Company: Amazon.com, Inc., Industry: Technology/E-commerce, Key Business Segments: Online Retail, AWS, and possibly others, Summary About The Company: Amazon is a multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.
+Ticker: TSLA
+Industry: Technology/E-commerce. Key business segments: Online Retail, AWS, and possibly others. Summary about the company: Amazon is a multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.
+Market Cap: fill manually later
+Key Business Segments:
+Summery Of The Company: 

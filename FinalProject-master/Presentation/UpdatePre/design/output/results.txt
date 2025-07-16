@@ -1,0 +1,4 @@
+Predicted 90-Day % Change: -37.61%
+Evaluated using recent Yahoo Finance data since 2024.
+Model used: lstm_stock_model_global.pth
+Data points used: 324
