@@ -36,13 +36,13 @@ def predict():
         hostname = 'slurm.bgu.ac.il'
         port = 22
         username = 'yairbary'
-        password = 'yairYAIR0_0'
+        password = 'yairYAIR0_00'
 
         submit_lstm_job(hostname=hostname, port=port, username=username, password=password,model=model_type)
         # Set paths
         output_dir = os.path.join(os.getcwd(), "output")
-        result_path = os.path.join(output_dir, f"results.txt")
-        image_path = os.path.join(output_dir, f"simulated_forecast.png")
+        result_path = os.path.join(output_dir, "results.txt")
+        image_path = os.path.join(output_dir, "simulated_forecast.png")
 
         # Load result text
         try:
@@ -58,11 +58,8 @@ def predict():
                 plot_url = f"data:image/png;base64,{encoded_img}"
         except FileNotFoundError:
             plot_url = None
-        try:
-            with open('C:/Users/yairb/PycharmProjects/Projectduhot/Server/output/results.txt', 'r') as file:
-                results_text = file.read()
-        except Exception as e:
-            results_text = f"⚠️ Error reading results.txt: {e}"
+
+        results_text=prediction_text.split("\n")[0]
         return render_template(
             "predict.html",
             prediction=prediction_text,

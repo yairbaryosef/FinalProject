@@ -6,8 +6,8 @@ import re
 def submit_lstm_job(hostname, port, username, password,model='LSTM'):
 
     local_stock_file = "stock.txt"
-    remote_stock_file = "/sise/home/yairbary/stock.txt"
-    remote_output_dir = "/sise/home/yairbary/output"
+    remote_stock_file = "/mnt/new_home/yairbary/stock.txt"
+    remote_output_dir = "/mnt/new_home/yairbary/output/"
     files_to_download = ["results.txt", "simulated_forecast.png"]
 
     # Write 'AMZN' into stock.txt
@@ -69,13 +69,19 @@ def submit_lstm_job(hostname, port, username, password,model='LSTM'):
 
         # Download the specified output files
         local_output_dir = os.path.join(os.getcwd(), "output")
+        print(local_output_dir)
         os.makedirs(local_output_dir, exist_ok=True)
 
         sftp = client.open_sftp()
         try:
             for filename in files_to_download:
+
                 remote_file_path = f"{remote_output_dir}/{filename}"  # safer for remote paths
                 local_file_path = os.path.join(local_output_dir, filename)
+                if os.path.exists(local_file_path):
+                    os.remove(local_file_path)
+                    print(f"Deleted existing file: {local_file_path}")
+
                 sftp.get(remote_file_path, local_file_path)
                 print(f"Downloaded {filename} to {local_file_path}")
         except Exception as e:
