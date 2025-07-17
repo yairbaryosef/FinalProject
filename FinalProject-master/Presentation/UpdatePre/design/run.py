@@ -55,6 +55,8 @@ def get_timeseries_data(ticker: str):
 
 # --------- פונקציה לחילוץ sentiment ו-SWOT ---------
 def extract_data_from_files(sentiment_path, swot_path):
+    print("Extracting data from files...")
+    print(sentiment_path)
     with open(sentiment_path, "r", encoding="utf-8") as f:
         sentiment_data = json.load(f)
 

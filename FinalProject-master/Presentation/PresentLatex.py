@@ -43,6 +43,7 @@ def main(stock, symbol, pdf):
     print("Resolved path:", base_dir)
 
     sentiment_file = os.path.join(base_dir, "Files", "sentiment_results.json")
+    print(sentiment_file)
     swot_output = os.path.join(base_dir, "Files", "swot_output.txt")
 
 

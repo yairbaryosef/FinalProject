@@ -34,12 +34,12 @@ def run_it_all(name, base_dir):
             print(f"Connected to {hostname}")
             client.get_transport().set_keepalive(30)
 
-            delete_command = 'rm -f /sise/home/yairbary/a.pdf /sise/home/yairbary/question.txt'
+            delete_command = 'rm -f /mnt/new_home/yairbary/a.pdf /mnt/new_home/yairbary/question.txt'
             client.exec_command(delete_command)
 
             sftp = client.open_sftp()
-            remote_file_path = "/sise/home/yairbary/a.pdf"
-            remote_question_path = "/sise/home/yairbary/question.txt"
+            remote_file_path = "/mnt/new_home/yairbary/a.pdf"
+            remote_question_path = "/mnt/new_home/yairbary/question.txt"
             sftp.put(local_file_path, remote_file_path)
             sftp.put(question_file_path, remote_question_path)
             sftp.close()
@@ -87,7 +87,7 @@ def run_it_all(name, base_dir):
                 time.sleep(10)
     
             sftp = client.open_sftp()
-            remote_json_path = "/sise/home/yairbary/sentiment_results.json"
+            remote_json_path = "/mnt/new_home/yairbary/sentiment_results.json"
             local_json_path = os.path.join(base_dir, "Presentation", "Files", "sentiment_results.json")
             try:
                 sftp.get(remote_json_path, local_json_path)
@@ -118,7 +118,7 @@ def run_it_all(name, base_dir):
 
                 # הורדת הפלט של llm_lines.txt
                 sftp = client.open_sftp()
-                remote_llm_output = f"/sise/home/yairbary/llm_lines.txt"
+                remote_llm_output = f"/mnt/new_home/yairbary/llm_lines.txt"
 
                 try:
                     sftp.get(remote_llm_output, local_llm_output)
