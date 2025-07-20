@@ -2,7 +2,8 @@ from flask import Flask, render_template, request, send_file
 
 from Presentation.PresentLatex import process
 from SSH.Actions.Predict_Stock import submit_lstm_job
-
+from Anlysis.Finnancial_Ratios.LSTM.predict import main
+from Anlysis.Finnancial_Ratios.LSTM.Calc_Ratios import *
 app = Flask(__name__)
 
 @app.route("/")
@@ -27,7 +28,7 @@ from PIL import Image
 def predict():
     if request.method == "POST":
         stock_symbol = request.form.get("stock_symbol").upper()  # e.g., "AMZN"
-        model_type = request.form.get("model_type")
+        ''' model_type = request.form.get("model_type")
         features = request.form.getlist("features")
         local_stock_file = "stock.txt"
         with open(local_stock_file, "w") as file:
@@ -64,13 +65,16 @@ def predict():
                 results_text = file.read().split("\n")[0]
         except Exception as e:
             results_text = f"⚠️ Error reading results.txt: {e}"
+        '''
+        prediction_text = main(stock_symbol)
+        results_text = prediction_text
         return render_template(
             "predict.html",
             prediction=prediction_text,
             results_text=results_text,
             stock_symbol=stock_symbol,
-            model_type=model_type,
-            features=features
+            model_type="LSTM",
+            features=""
         )
 
 
